@@ -72,7 +72,7 @@ header.sticky {
 
 .menu-btn {
     padding: 15px 25px;
-    background: linear-gradient(135deg, #e1bac5, var(--main-color));
+    background: linear-gradient(135deg, #5e4b43, var(--main-color));
     color: var(--bg-color);
     font-size: 18px;
     border-radius: 13px;
@@ -80,7 +80,7 @@ header.sticky {
 }
 
 .menu-btn:hover {
-    background: linear-gradient(135deg, var(--main-color), #e1bac5);
+    background: linear-gradient(135deg, var(--main-color), #5e4b43);
 }
 
 #menu-icon {
@@ -148,7 +148,7 @@ header.sticky {
 }
 
 .home-text h1 span {
-    background: linear-gradient(135deg, #e1bac5, var(--main-color));
+    background: linear-gradient(135deg, #5e4b43, var(--main-color));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 30px;
@@ -218,7 +218,7 @@ header.sticky {
 
 .btn2,
 .submit-btn {
-    background: linear-gradient(135deg, var(--main-color), #e1bac5);
+    background: linear-gradient(135deg, var(--main-color), #5e4b43);
     color: var(--bg-color);
 }
 
@@ -244,7 +244,7 @@ header.sticky {
     border-radius: 20%;
     border: 5px solid var(--main-color);
     object-fit: cover;
-    background: linear-gradient(135deg, var(--main-color), #e1bac5);
+    background: linear-gradient(135deg, var(--main-color), #5e4b43);
 
 }
 
@@ -254,7 +254,7 @@ header.sticky {
 }
 
 .about-text h2 span {
-    background: linear-gradient(135deg, #e1bac5, var(--main-color));
+    background: linear-gradient(135deg, #5e4b43, var(--main-color));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -285,7 +285,7 @@ header.sticky {
 }
 
 .services-left h2 span {
-    background: linear-gradient(135deg, #e1bac5, var(--main-color));
+    background: linear-gradient(135deg, #5e4b43, var(--main-color));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -318,14 +318,14 @@ header.sticky {
 .box:hover {
     transform: translateY(-8px);
     border-bottom: 3px solid;
-    border-image: linear-gradient(135deg, #e1bac5, var(--main-color)) 1;
+    border-image: linear-gradient(135deg, #5e4b43, var(--main-color)) 1;
 }
 
 .box-icon i {
     font-size: 28px;
     height: 60px;
     width: 60px;
-    background: linear-gradient(135deg, #e1bac5, var(--main-color));
+    background: linear-gradient(135deg, #5e4b43, var(--main-color));
     color: var(--bg-color);
     display: flex;
     align-items: center;
@@ -361,7 +361,7 @@ header.sticky {
 }
 
 .mid-text h2 span {
-    background: linear-gradient(135deg, #e1bac5, var(--main-color));
+    background: linear-gradient(135deg, #5e4b43, var(--main-color));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -407,7 +407,7 @@ header.sticky {
 }
 
 .row-right a {
-    background: linear-gradient(135deg, #e1bac5, var(--main-color));
+    background: linear-gradient(135deg, #5e4b43, var(--main-color));
     width: 50px;
     height: 50px;
     font-size: 22px;
@@ -447,7 +447,7 @@ header.sticky {
 }
 
 .contact-mian h2 span {
-    background: linear-gradient(135deg, #e1bac5, var(--main-color));
+    background: linear-gradient(135deg, #5e4b43, var(--main-color));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -527,7 +527,7 @@ header.sticky {
 }
 
 .contact-form .submit-btn {
-    background: linear-gradient(135deg, var(--main-color), #e1bac5);
+    background: linear-gradient(135deg, var(--main-color), #5e4b43);
     color: var(--bg-color);
     padding: 18px 35px;
     font-size: 18px;
@@ -545,7 +545,7 @@ header.sticky {
 }
 
 .scroll-top i {
-    background: linear-gradient(135deg, #e1bac5, var(--main-color));
+    background: linear-gradient(135deg, #5e4b43, var(--main-color));
     height: 45px;
     width: 45px;
     border-radius: 50%;
