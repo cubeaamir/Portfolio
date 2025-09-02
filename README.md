@@ -1,17 +1,17 @@
 # Aamir Ali — Portfolio
 
 A modern, responsive personal portfolio built with **HTML**, **CSS**, and **JavaScript** to showcase my skills, services, and work.
-**Live Demo:** [https://cubeaamir.github.io/Portfolio/](https://cubeaamir.github.io/Portfolio/) ([cubeaamir.github.io][1])
+**Live Demo:** [https://cubeaamir.github.io/Portfolio/](https://cubeaamir.github.io/Portfolio/)
 
 ---
 
 ## ✨ Features
 
-* **Hero section** with intro, social links, and CV download. ([cubeaamir.github.io][1])
-* **About** section that highlights my background in frontend, UI/UX, and data. ([cubeaamir.github.io][1])
-* **Services** (Development, Designing, Data Analysis, Photo/Video). ([cubeaamir.github.io][1])
-* **Portfolio** with categories like Website UI, Graphic Design, Data Viz, Photography/Editing. ([cubeaamir.github.io][1])
-* **Contact** section with email/phone & quick links. ([cubeaamir.github.io][1])
+* **Hero section** with intro, social links, and CV download.
+* **About** section that highlights my background in frontend, UI/UX, and data.
+* **Services** (Development, Designing, Data Analysis, Photo/Video).
+* **Portfolio** with categories like Website UI, Graphic Design, Data Viz, Photography/Editing.
+* **Contact** section with email/phone & quick links.
 * Fully responsive layout and smooth scrolling navigation.
 
 ---
@@ -67,11 +67,11 @@ Portfolio/
 
 ## 🔧 Configuration & Customization
 
-* **Site info:** Update name, role, and tagline in `index.html` (hero/About).
-* **Social links:** Replace Instagram/LinkedIn/YouTube hrefs. ([cubeaamir.github.io][1])
+* **Site info:** Update name, role, and tagline in `index.html`.
+* **Social links:** Replace Instagram/LinkedIn/YouTube hrefs.
 * **Services:** Edit cards/titles in the Services section.
 * **Portfolio items:** Swap images, titles, and captions per category.
-* **Contact:** Update email/phone in the Contact section. ([cubeaamir.github.io][1])
+* **Contact:** Update email/phone in the Contact section.
 * **Styles:** Tweak colors, spacing, and typography in `assets/css/style.css`.
 * **Scripts:** Add animations/interactions in `assets/js/main.js`.
 
@@ -93,7 +93,7 @@ Portfolio/
 * **Services:** Development / Designing / Data Analysis / Photo–Video
 * **Portfolio:** Featured categories & works
 * **Contact:** Email, phone, & social links
-  *(See the live site for layout and copy.)* ([cubeaamir.github.io][1])
+  *(See the live site for layout and copy.)*
 
 ---
 
@@ -101,7 +101,7 @@ Portfolio/
 
 * **Email:** [cubeaamirali@gmail.com](mailto:cubeaamirali@gmail.com)
 * **Phone:** +91 99117 24871
-* **Social:** Instagram • LinkedIn • YouTube (linked on the site) ([cubeaamir.github.io][1])
+* **Social:** Instagram • LinkedIn • YouTube (linked on the site)
 
 ---
 
@@ -114,5 +114,5 @@ If you fork or reuse, a small credit is appreciated. 🙌
 
 ## 🙏 Acknowledgements
 
-* Inspiration & copy from my live portfolio sections (About/Services/Portfolio). ([cubeaamir.github.io][1])
+* Inspiration & copy from my live portfolio sections (About/Services/Portfolio).
 * Icons, fonts, and images belong to their respective owners.
